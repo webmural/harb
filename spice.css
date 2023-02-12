@@ -1,5 +1,6 @@
 :root {
   background: hotpink;
+  background-image: conic-gradient(hotpink, deeppink, violet, hotpink);
   color: black;
 }
 
